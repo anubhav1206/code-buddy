@@ -1,9 +1,8 @@
-# Code Buddy
-Sure! Here's the updated README section for the project:
-
 # Code Buddy - Find Your Code Partner
 
 Welcome to Code Buddy, a web application created using create-react-app, where you can find your code partner! This readme section provides an overview of the project and instructions on how to set it up and run it locally.
+
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 ## Table of Contents
 
@@ -91,3 +90,8 @@ Code Buddy is open-source software licensed under the [MIT License](LICENSE).
 ---
 
 Thank you for your interest in Code Buddy! If you have any questions, suggestions, or encounter any issues, feel free to reach out or open an issue on the GitHub repository. Happy coding!
+
+[![GitHub issues](https://img.shields.io/github/issues/your-username/code-buddy)](https://github.com/your-username/code-buddy/issues)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/your-username/code-buddy)](https://github.com/your-username/code-buddy/pulls)
+[![GitHub stars](https://img.shields.io/github/stars/your-username/code-buddy)](https://github.com/your-username/code-buddy/stargazers)
+[![GitHub license](https://img.shields.io/github/license/your-username/code-buddy)](https://github.com/your-username/code-buddy/blob/master/LICENSE)
